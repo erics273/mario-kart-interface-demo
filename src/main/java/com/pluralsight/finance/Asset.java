@@ -1,4 +1,4 @@
-package com.pluralsight;
+package com.pluralsight.finance;
 
 public abstract class Asset implements IValuable {
 

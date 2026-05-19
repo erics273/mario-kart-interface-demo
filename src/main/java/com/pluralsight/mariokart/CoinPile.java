@@ -1,4 +1,6 @@
-package com.pluralsight;
+package com.pluralsight.mariokart;
+
+import com.pluralsight.finance.IValuable;
 
 public class CoinPile implements IValuable {
 

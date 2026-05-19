@@ -1,10 +1,14 @@
-package com.pluralsight;
+package com.pluralsight.mariokart;
+
+import com.pluralsight.finance.IValuable;
 
 import java.util.ArrayList;
+import java.util.LinkedList;
+import java.util.List;
 
 public class Garage {
 
-    private ArrayList<IValuable> stuffInMyGarage;
+    private List<IValuable> stuffInMyGarage;
 
     public Garage() {
         this.stuffInMyGarage = new ArrayList<>();

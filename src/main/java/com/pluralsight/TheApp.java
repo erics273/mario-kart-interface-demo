@@ -1,5 +1,12 @@
 package com.pluralsight;
 
+import com.pluralsight.finance.Jewelry;
+import com.pluralsight.mariokart.*;
+
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.List;
+
 public class TheApp {
 
     public static void main(String[] args) {
